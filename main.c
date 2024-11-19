@@ -1,4 +1,5 @@
 /**
+https://github.com/davydov-vyacheslav/sample_project
  * @mainpage
  * # Загальне завдання
  * 1. **Сформувати** функцию, що генерирує структуру із залученням механізму
